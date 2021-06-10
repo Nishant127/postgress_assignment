@@ -10,10 +10,15 @@
 
 ## Tables included in the Database:
 - #### members
+  <img src="https://i.imgur.com/w9TfzBB.png">
 - #### books
+  <img src="https://i.imgur.com/CdbuxxN.png">
 - #### issued_books
+  <img src="https://i.imgur.com/VeZqBeY.png">
 - #### reserve_books
+  <img src="https://i.imgur.com/UQLU9Oa.png">
 - #### book_fines
+  <img src="https://i.imgur.com/uvjCrj4.png">
 
 ## Commands:
 - ### Add a new member
